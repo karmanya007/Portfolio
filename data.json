@@ -1,0 +1,15 @@
+{
+	"description": "My hobby projects, most of them use Node.js",
+	"githubUsername": "karmanya007",
+	"avatarUrl": "",
+	"displayName": "Karmanya veer sharma",
+	"email": "karmanyasharma5@gmail.com",
+	"projects": {
+		"blacklist": [
+			"Hello-world",
+			"bot_stable_generator",
+			"budgetApp"
+		],
+		"heroNames": []
+	}
+}
